@@ -1,0 +1,36 @@
+.emoji{
+    border: 2px;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    position: relative;
+}
+.eye1{
+    border: 2px;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    top: 29px;
+    left: 27px;
+}
+.eye2{
+    border: 2px;
+    height: 20px;
+    width:20px;
+    background-color: BLACK;
+    border-radius: 50%;
+    position: absolute;
+    top: 29px;
+    left: 72px;
+}
+.mouth{
+    border: 3px solid black;
+    width: 30px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+
+}
